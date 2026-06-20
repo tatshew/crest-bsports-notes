@@ -1,2 +1,14 @@
 # crest-bsports-notes
-HTML page archive and documentation
+
+静态内容发布记录
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
